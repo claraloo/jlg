@@ -5,7 +5,8 @@
 }
 
 header{
- background-image:url(1.jpeg);linear-gradient(rgba(0,0,0,0.5);rgba(0,0,0,0.5));
+ background-image:url(1.jpeg);
+ linear-gradient:(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
  height: 100vh;
  background-size: cover;
 }
@@ -82,7 +83,8 @@ position: absolute;
 }
 
 .H2{
-background-image:url(2.jpeg);linear-gradient(rgba(0,0,0,0.5);rgba(0,0,0,0.5));
+background-image:url(2.jpeg):
+linear-gradient:(rgba(0,0,0,0.5);rgba(0,0,0,0.5));
 height: 100vh;
  background-size: cover;
 color: white;
@@ -113,7 +115,8 @@ position: absolute;
 }
 
 .H3{
-background-image:url(4.jpeg);linear-gradient(rgba(0,0,0,0.5);rgba(0,0,0,0.5));
+background-image:url(4.jpeg);
+linear-gradient:(rgba(0,0,0,0.5);rgba(0,0,0,0.5));
  height: 100vh;
  background-size: cover;
 color: white;
@@ -121,7 +124,8 @@ font-size: 15px;
 }
 
 .H4{
-background-image:url(5.jpeg);linear-gradient(rgba(0,0,0,0.5);rgba(0,0,0,0.5));
+background-image:url(5.jpeg);
+linear-gradient:(rgba(0,0,0,0.5);rgba(0,0,0,0.5));
  height: 100vh;
  background-size: cover;
 color: white;
